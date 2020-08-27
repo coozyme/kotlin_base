@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lists Your ToDo</string>
+    <string name="title_bar">LIST YOUR TODO</string>
+    <string name="buat_disini"><u>buat disini</u></string>
+    <string name="tv_login"><u>Login</u></string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_search_framelayout" > Search Fragment </string>
+    <string name="fragment_home_framelayout" > Home Fragment</string>
+</resources>
