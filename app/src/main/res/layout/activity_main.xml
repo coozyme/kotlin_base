@@ -16,12 +16,15 @@
     </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
+        app:labelVisibilityMode="labeled"
         android:id="@+id/btn_MainNavigationMenu"
+        app:itemIconTint="@color/clr_icon"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:background="@color/colorBluecold"
-        app:menu="@menu/bottomnavigation_menu"/>
+        android:background="@color/colorWhite"
+        app:menu="@menu/bottomnavigation_menu"
+       />
 
 
 </LinearLayout>

@@ -5,11 +5,18 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorBlueGBSplash">#009ADC</color>
     <color name="colorPurple">#9A40AB</color>
-    <color name="colorGreanTea">#00BFA0</color>
+    <color name="colorGreanTea">#0BB34E</color>
+    <color name="colorGreenMidle">#07CD48</color>
     <color name="colorAsphalt">#2C4A5E</color>
     <color name="colorBlack">#000000</color>
     <color name="colorBluecold">#99D4FE</color>
-
+    <color name="colorWhite">#ffffff</color>
     <color name="colorNavigationIcon">#dae9f6</color>
     <color name="colorNavigationText">#ffffff</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlueBgHome">#118EEA</color>
+    <color name="colorCoklate">#B79357</color>
+    <color name="colorAbuabu">#434141</color>
+
+
 </resources>

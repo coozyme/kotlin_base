@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/home_menu"
         android:title="@string/home"
-        android:icon="@drawable/ic_home"/>
+        android:icon="@drawable/ic_home"
+        />
 
     <item
         android:id="@+id/search_menu"
-        android:title="@string/search"
-        android:icon="@drawable/ic_search"/>
+        android:title="@string/history"
+        android:icon="@drawable/ic_history"/>
+    <item
+        android:id="@+id/pay_menu"
+        android:title="pay"
+        android:icon="@drawable/ic_pay"
+
+        />
+    <item
+        android:id="@+id/pocket_menu"
+        android:title="Pocket"
+        android:icon="@drawable/ic_pocket"
+
+        />
+    <item
+        android:id="@+id/me_menu"
+        android:title="me"
+        android:icon="@drawable/ic_me"
+        />
+
 
 
 </menu>
